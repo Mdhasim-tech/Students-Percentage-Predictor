@@ -29,7 +29,7 @@ export default function PredictPage() {
     setResult(null);
     setError(null);
     try {
-      const response = await fetch('https://students-percentage-predictor.onrender.com', {
+      const response = await fetch('https://students-percentage-predictor.onrender.com/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData)
