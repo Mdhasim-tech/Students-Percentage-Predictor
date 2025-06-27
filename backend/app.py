@@ -9,8 +9,10 @@ CORS(app)
 # Load the trained model
 model = joblib.load("student_knn_model.pkl")
 
-@app.route('/', methods=['POST', 'OPTIONS'])
-
+@app.route('/', methods=['GET'])
+def home():
+    return "Api is up and running..."
+@app.route('/predict',methods=['POST'])
 def predict():
     if request.method == 'OPTIONS':
         return jsonify({'message': 'CORS preflight passed'}), 200
