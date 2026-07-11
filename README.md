@@ -202,6 +202,4 @@ This project is licensed under the MIT License.
 
 **Md Hasim**
 
-GitHub: https://github.com/Mdhasim-tech<img width="1362" height="675" alt="study1" src="https://github.com/user-attachments/assets/082ed43b-78af-4405-a3b8-1e5176d8b210" />
-<img width="1349" height="677" alt="study3" src="https://github.com/user-attachments/assets/ed173bdc-7dab-4002-885f-c5e0f6eebbb6" />
-<img width="1349" height="677" alt="study2" src="https://github.com/user-attachments/assets/7df70c6e-4bc3-4bec-852b-0ea7a1d24691" />
+GitHub: https://github.com/Mdhasim-tech
